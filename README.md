@@ -1,7 +1,9 @@
 ## Android Webview Application
- ~ This application works like a normal web browser
- ~ It runs continuously on the background
- ~ Whenever user copied the URL, this application automatically triggered and and opens the webpage of the copied URL.
+<ul>
+ <li> This application works like a normal web browser </li>
+ <li> It runs continuously on the background </li>
+ <li> Whenever user copied the URL, this application automatically triggered and and opens the webpage </li> of the copied URL.
+</ul>
 
 # Sample Screen Shots
 
